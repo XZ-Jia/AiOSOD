@@ -51,7 +51,7 @@ Note: The depth folder in the RGB dataset has the same content as the RGB folder
 
 
 ### RGB, RGB-D, RGB-T Saliency Maps 
-The saliency maps in our paper can be downloaded from  [[Google drive](https://drive.google.com/file/d/14d2HHzW-THZNA35iYbg7uU3vHq_F2Grd/view?usp=sharing)].
+The saliency maps amd models in our paper can be downloaded from  [[Google drive](https://drive.google.com/file/d/14d2HHzW-THZNA35iYbg7uU3vHq_F2Grd/view?usp=sharing)],  [[Google drive](https://drive.google.com/file/d/1L2ah85SK6ud3ZZ5WVaUNuKJQN2OeJzc4/view?usp=sharing)]. 
 
 
 
